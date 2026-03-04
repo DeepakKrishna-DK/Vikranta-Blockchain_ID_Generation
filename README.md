@@ -1269,7 +1269,7 @@ Documentation: Comprehensive
 
 ---
 
-**Built with ❤️ by *dk* for secure and transparent tourist registration**
+**Built with ❤️ by dk <br> for secure and transparent tourist registration**
 
 ---
 
