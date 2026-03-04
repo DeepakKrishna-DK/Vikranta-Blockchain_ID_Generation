@@ -1304,7 +1304,7 @@ Authority Panel: https://localhost/authority-login.html
 
 ### Important Credentials
 ```
-Authority Passphrase: vikrantaTBS$2025
+Authority Passphrase: ex: vikrantaTBS$2025
 Deployer Address: 0x9bBD3535c5582A4b15a529Bb3794688728988D41
 Contract Address: 0x4c83302C0db7E91d0c5a42604E98650cF5e8c59e
 Network ID: 5777
