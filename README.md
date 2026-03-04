@@ -1216,9 +1216,6 @@ SOFTWARE.
 
 ### Contact
 - **Email**: [support@vikranta.com](tech.pheonix03@gmail.com)
-- **Discord**: [Join our server](#)
-- **Twitter**: [@Vikranta](#)
-
 ---
 
 ## 🎯 Roadmap
@@ -1272,7 +1269,7 @@ Documentation: Comprehensive
 
 ---
 
-**Built with ❤️ by TwinCiphers for secure and transparent tourist registration**
+**Built with ❤️ by dk for secure and transparent tourist registration**
 
 ---
 
